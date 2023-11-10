@@ -2,3 +2,4 @@
 ||tabpilot.com^$dnsrewrite=NOERROR
 ||useast-www-alb-1430906465.us-east-1.elb.amazonaws.com^$dnsrewrite=NOERROR
 ||useast2-www.securly.com/blocked?reason=domainblockedforuser&categoryid=67174400&policyid=1&i2n=3649595048&url=amtsbS5mdW4v&ssl=true
+||useast2-www.securly.com
